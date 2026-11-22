@@ -6,7 +6,7 @@ Repositório de scans de mangás e HQs (HTML, CSS e JavaScript puros).
 - `index.html` — página única, carrega CSS e scripts
 - `css/style.css` — estilos, temas claro/escuro e layout mobile
 - `js/data.js` — dados, localStorage, helpers e estado
-- `js/views.js` — telas (login, início, busca, obra, leitor, perfil, config, moderação)
+- `js/views.js` — telas (login, gostos, início, busca, obra, leitor, perfil, config, moderação)
 - `js/app.js` — rotas (#hash), eventos e formulários
 
 ## Como usar
